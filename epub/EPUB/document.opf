@@ -2,12 +2,12 @@
 <package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="fidus" xml:lang="en-GB" prefix="cc: http://creativecommons.org/ns#">
   <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
     <dc:identifier id="fidus">108</dc:identifier>
-    <dc:title>A-Machine Quickstart Guide</dc:title>
+    <dc:title>A-Machine Quick Start Guide</dc:title>
     <dc:creator>
       A-Machine Community
     </dc:creator>
     <dc:language>en-GB</dc:language>
-    <meta property="dcterms:modified">2022-05-16T12:02:41Z</meta>
+    <meta property="dcterms:modified">2022-05-16T12:29:16Z</meta>
     <dc:date>2022-05-16</dc:date>
     <dc:rights>CC BY-SA 4.0</dc:rights>
     <dc:publisher>A-Machine</dc:publisher>
